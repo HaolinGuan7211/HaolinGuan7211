@@ -3,7 +3,7 @@ Love yhj, C++, distributed system, data-infra.
 
 ---
 
-## 🌱 Breif
+## 🌱 Brief
 - 🔭 Currently focus on **Apache Doris** and **RocksDB**
 - 🌱 C++, data and .... Math ?
 - 💬 Todo : **File System** , **Paxos**, **FoudationDB**, **DuckDB**, **PostgreSQL**
